@@ -1,8 +1,5 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第二十九课 读取数据库
-# 建议在第八讲之后查看
-# 2018-10-30
+# 读取数据库
+
 
 import pyodbc
 import sqlalchemy

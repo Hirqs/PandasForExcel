@@ -1,8 +1,6 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第十四课 散点图，直方图，密度图
-# 第十五课 密度图，数据相关性
-# 2018-10-19
+# 散点图，直方图，密度图
+# 密度图，数据相关性
+
 
 import pandas as pd 
 import matplotlib.pyplot as plt

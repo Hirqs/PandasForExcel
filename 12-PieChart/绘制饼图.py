@@ -1,6 +1,4 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第十二课 绘制饼图
+# 绘制饼图
 # 2018-10-19
 
 import pandas as pd 

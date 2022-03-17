@@ -1,7 +1,4 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第十六课 多表联合（Join）
-# 2018-10-24
+# 多表联合（Join）
 
 import pandas as pd 
 

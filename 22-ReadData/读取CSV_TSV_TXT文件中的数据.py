@@ -1,7 +1,5 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第二十二课 读取CSV、TSV、TXT文件中的数据
-# 2018-10-25
+# 读取CSV、TSV、TXT文件中的数据
+
 
 import pandas as pd 
 

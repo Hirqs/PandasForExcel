@@ -1,7 +1,5 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第六课 函数填充
-# 2018-10-18
+
+# 函数填充
 
 import pandas as pd
 

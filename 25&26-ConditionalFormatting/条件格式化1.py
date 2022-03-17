@@ -1,7 +1,5 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第二十五课 条件格式化（上）
-# 2018-10-26
+# 条件格式化（上）
+
 
 import pandas as pd
 import seaborn as sns

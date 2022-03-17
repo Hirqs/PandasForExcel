@@ -1,7 +1,5 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第二十一课 定位、旋转数据表（行/列转换）
-# 2018-10-25
+# 定位、旋转数据表（行/列转换）
+
 
 import pandas as pd 
 

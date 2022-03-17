@@ -1,7 +1,4 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第一课 创建文件
-# 2018-10-17
+# 创建文件
 
 import pandas as pd
 

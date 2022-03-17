@@ -1,7 +1,5 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第三课 行、列、单元格
-# 2018-10-17
+# 行、列、单元格
+
 
 import pandas as pd
 

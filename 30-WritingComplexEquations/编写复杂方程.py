@@ -1,8 +1,4 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第三十课 编写复杂方程
-# 建议在第八讲之后查看
-# 2018-10-30
+# 编写复杂方程
 
 import pandas as pd
 import numpy as np

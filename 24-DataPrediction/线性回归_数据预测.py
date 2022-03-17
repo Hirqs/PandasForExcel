@@ -1,7 +1,5 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第二十四课 线性回归，数据预测
-# 2018-10-25
+# 线性回归，数据预测
+
 
 import pandas as pd 
 import matplotlib.pyplot as plt

@@ -1,7 +1,5 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第二十三课 透视表，分组，聚合（group by）
-# 2018-10-25
+# 透视表，分组，聚合（group by）
+
 
 import pandas as pd 
 import numpy as np

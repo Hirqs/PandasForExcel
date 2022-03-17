@@ -1,7 +1,6 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第八课 数据筛选、过滤
-# 2018-10-18
+
+# 数据筛选、过滤
+
 
 import pandas as pd
 
@@ -29,7 +28,7 @@ Students = Students.loc[Students.Age.apply(age_18_to_30)] \
 print('\n----筛选 Age 大于等于 18 小于 30 成绩在 85 到 100 之间 的学生----')
 print(Students)
 
-# 补充知识点
+# 补充知识
 # 1. Students['Age'] 的写法可以简写为 Students.Age
 # 2. age_18_to_30 函数可以用 lambda 表达式代替，因此
 #    .apply(age_18_to_30) 可以简写为 .apply(lambda age:18 <= age < 30)

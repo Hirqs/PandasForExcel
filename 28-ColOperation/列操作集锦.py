@@ -1,8 +1,5 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第二十八课 列操作集锦
-# 建议在第八讲之后查看
-# 2018-10-30
+# 列操作集锦
+
 
 import pandas as pd
 import numpy as np

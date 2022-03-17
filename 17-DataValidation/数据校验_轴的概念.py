@@ -1,7 +1,5 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第十七课 数据校验，轴的概念
-# 2018-10-24
+# 数据校验，轴的概念
+
 
 import pandas as pd 
 

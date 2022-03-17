@@ -1,7 +1,4 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第十九课 求和，求平均，统计导引
-# 2018-10-24
+# 求和，求平均，统计导引
 
 import pandas as pd 
 

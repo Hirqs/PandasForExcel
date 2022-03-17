@@ -1,7 +1,5 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第二十课 定位、消除重复数据
-# 2018-10-24
+# 定位、消除重复数据
+
 
 import pandas as pd 
 

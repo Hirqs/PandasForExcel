@@ -1,7 +1,5 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第十课 绘制分组柱图，深度优化图表
-# 2018-10-18
+# 绘制分组柱图，深度优化图表
+
 
 import pandas as pd
 import matplotlib.pyplot as plt

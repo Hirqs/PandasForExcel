@@ -1,7 +1,6 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第九课 柱状图
-# 2018-10-18
+
+# 柱状图
+
 
 import pandas as pd
 import matplotlib.pyplot as plt

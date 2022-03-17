@@ -1,7 +1,4 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第十八课 把一列数据分割成两列
-# 2018-10-24
+# 把一列数据分割成两列
 
 import pandas as pd 
 

@@ -1,24 +1,21 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第四课 数据区域的读取，填充整数、文字
-# 第五课 填充日期序列
-# 2018-10-17
+
+# 数据区域的读取，填充整数、文字
+# 填充日期序列
+
 
 import pandas as pd
 from datetime import date,timedelta
 
 # --数据区域的读取--
-
 # skiprows: 从序号为3的行开始读取(类似于 header)
 # usecols： 读取列的范围
 # dtype: 设置每一列的数据类型
 books = pd.read_excel('./Books.xlsx',skiprows=3,usecols='C:F',dtype={'ID':str,'Name':str,'InStore':str,'Date':str})
 print(books)
 
-
 print('-----------------分隔符-----------------')
 
-# --填充整数、文字、日前--
+# --填充整数、文字、日期--
 
 # 日期加月份
 # d：起始日期，type：date

@@ -1,7 +1,5 @@
-# pandasVersusExcel
-# http://sa.mentorx.net/course/89/tasks
-# 第十三课 绘制折线趋势图、叠加区域图
-# 2018-10-19
+# 绘制折线趋势图、叠加区域图
+
 
 import pandas as pd 
 import matplotlib.pyplot as plt
