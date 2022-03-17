@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e899839-f78a-49a5-8875-f9620f7378b1" name="Default Changelist" comment="Default Changelist" />
+    <list default="true" id="4e899839-f78a-49a5-8875-f9620f7378b1" name="Default Changelist" comment="Default Changelist">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/29-ReadDataBase/读取数据库.py" beforeDir="false" afterPath="$PROJECT_DIR$/29-ReadDataBase/读取数据库.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -412,6 +415,7 @@
       <option name="presentableId" value="Default" />
       <updated>1539737266150</updated>
       <workItem from="1647506820152" duration="2315000" />
+      <workItem from="1647509236254" duration="238000" />
     </task>
     <task id="LOCAL-00001" summary="笔记">
       <created>1647509078672</created>
@@ -420,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647509078672</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改">
+      <created>1647509324099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647509324099</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -487,13 +498,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="笔记" />
-    <option name="LAST_COMMIT_MESSAGE" value="笔记" />
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

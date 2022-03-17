@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PandasVersusExcel.iml" filepath="$PROJECT_DIR$/.idea/PandasVersusExcel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PandasForExcel.iml" filepath="$PROJECT_DIR$/.idea/PandasForExcel.iml" />
     </modules>
   </component>
 </project>
