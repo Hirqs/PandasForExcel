@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e899839-f78a-49a5-8875-f9620f7378b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2-ReadExcel/读取文件.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PandasVersusExcel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PandasVersusExcel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-CreateExcel/CreateExcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-CreateExcel/创建文件.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-CreateExcel/output.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-GroupedHistogran&amp;DepthOptimizationChart/GroupedHistogran&amp;DepthOptimizationChart.py" beforeDir="false" afterPath="$PROJECT_DIR$/10-GroupedHistogran&amp;DepthOptimizationChart/绘制分组柱图，深度优化图表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11-SuperimposedHistogram&amp;HorizontalHistogram/SuperimposedHistogram&amp;HorizontalHistogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/11-SuperimposedHistogram&amp;HorizontalHistogram/绘制分组柱图_深度优化图表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12-PieChart/PieChart.py" beforeDir="false" afterPath="$PROJECT_DIR$/12-PieChart/绘制饼图.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-PolylineTrendChart&amp;OverlayAreaMap/PolylineTrendChart&amp;OverlayAreaMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/13-PolylineTrendChart&amp;OverlayAreaMap/绘制折线趋势图_叠加区域图.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14&amp;15-ScatterPlot&amp;Histogram&amp;DensityMap/ScatterPlot&amp;Histogram&amp;DensityMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/14&amp;15-ScatterPlot&amp;Histogram&amp;DensityMap/散点图_直方图_密度图_数据相关性.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-Join/Join.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-Join/多表联合.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17-DataValidation/DataValidation.py" beforeDir="false" afterPath="$PROJECT_DIR$/17-DataValidation/数据校验_轴的概念.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18-DataSegmentation/DataSegmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/18-DataSegmentation/把一列数据分割成两列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/19-Statistics/Statistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/19-Statistics/求和_求平均_统计导引.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-ReadExcel/ReadExcel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-DuplicateData/DuplicateData.py" beforeDir="false" afterPath="$PROJECT_DIR$/20-DuplicateData/定位_消除重复数据.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21-RotateDataSet/RotateDataSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/21-RotateDataSet/定位_旋转数据表-行_列转换.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-ReadData/ReadData.py" beforeDir="false" afterPath="$PROJECT_DIR$/22-ReadData/读取CSV_TSV_TXT文件中的数据.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23-GroupBy/GroupBy.py" beforeDir="false" afterPath="$PROJECT_DIR$/23-GroupBy/透视表_分组_聚合.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/24-DataPrediction/DataPrediction.py" beforeDir="false" afterPath="$PROJECT_DIR$/24-DataPrediction/线性回归_数据预测.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/ConditionalFormatting01.py" beforeDir="false" afterPath="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/条件格式化1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/ConditionalFormatting02.py" beforeDir="false" afterPath="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/条件格式化2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27-RowOperation/RowOperation.py" beforeDir="false" afterPath="$PROJECT_DIR$/27-RowOperation/行操作集锦.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28-ColOperation/ColOperation.py" beforeDir="false" afterPath="$PROJECT_DIR$/28-ColOperation/列操作集锦.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/29-ReadDataBase/ReadDataBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/29-ReadDataBase/ReadDataBase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-Rows&amp;Clumns&amp;Cell/Rows&amp;Clumns&amp;Cell.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-Rows&amp;Clumns&amp;Cell/行_列_单元格.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4&amp;5-ReadData&amp;BaseInput/Books_output.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/4&amp;5-ReadData&amp;BaseInput/Books_output.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4&amp;5-ReadData&amp;BaseInput/ReadData&amp;BaseInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/4&amp;5-ReadData&amp;BaseInput/填充整数_文字_日期.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-InputFunction/InputFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/6-InputFunction/函数填充.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-Sequence/Sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/7-Sequence/排序.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8-DataFiltering/DataFiltering.py" beforeDir="false" afterPath="$PROJECT_DIR$/8-DataFiltering/筛选_过滤.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9-Histogram/Histogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/9-Histogram/柱状图.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="4e899839-f78a-49a5-8875-f9620f7378b1" name="Default Changelist" comment="Default Changelist" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,8 +125,41 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.行操作集锦">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="PandasForExcel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="PandasForExcel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="行操作集锦" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PandasVersusExcel" />
+      <module name="PandasForExcel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -183,7 +181,7 @@
       <method v="2" />
     </configuration>
     <configuration name="读取CSV_TSV_TXT文件中的数据" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PandasVersusExcel" />
+      <module name="PandasForExcel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -205,7 +203,7 @@
       <method v="2" />
     </configuration>
     <configuration name="定位_旋转数据表-行_列转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PandasVersusExcel" />
+      <module name="PandasForExcel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -227,7 +225,7 @@
       <method v="2" />
     </configuration>
     <configuration name="线性回归_数据预测" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PandasVersusExcel" />
+      <module name="PandasForExcel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -249,7 +247,7 @@
       <method v="2" />
     </configuration>
     <configuration name="透视表_分组_聚合" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PandasVersusExcel" />
+      <module name="PandasForExcel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -268,6 +266,121 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PandasForExcel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="PandasForExcel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="PandasForExcel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="PandasForExcel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="PandasForExcel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="PandasForExcel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="PandasForExcel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
@@ -298,8 +411,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539737266150</updated>
-      <workItem from="1647506820152" duration="2131000" />
+      <workItem from="1647506820152" duration="2315000" />
     </task>
+    <task id="LOCAL-00001" summary="笔记">
+      <created>1647509078672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647509078672</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -369,6 +490,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="笔记" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
